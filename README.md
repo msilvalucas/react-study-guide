@@ -22,3 +22,11 @@ Cada pasta (`day-xx/`) contém:
 
 ## 🔗 Referências
 Veja [references.md](./references.md) para uma lista completa de materiais usados.
+
+Blogs:
+- [Devto: mpetry](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-05-usereducer-f9j)
+- [imrankhani](https://imrankhani.medium.com/usestate-vs-usereducer-understanding-the-key-differences-5caa4f30bc3e)
+
+Cursos:
+- [B7WEB](https://alunos.b7web.com.br/curso/reactjs/react-o-que-sao-reducers)
+- [ORIGAMID](https://www.origamid.com/curso/react-completo/0704-usereducer)
