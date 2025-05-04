@@ -34,9 +34,9 @@
 }
 
 .card {
+  background-color: #646cff;
+  display: flex;
+  justify-content: space-between;
   padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
+  border-radius: 5px;
 }
